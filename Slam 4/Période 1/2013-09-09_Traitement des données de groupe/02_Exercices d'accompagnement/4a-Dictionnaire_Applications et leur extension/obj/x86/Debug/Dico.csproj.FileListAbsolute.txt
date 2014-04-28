@@ -1,0 +1,17 @@
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\02_Traitement des données de groupe\02_Exercices d'accompagnement\6-Dictionnaire\Dico\bin\Debug\Dico.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\02_Traitement des données de groupe\02_Exercices d'accompagnement\6-Dictionnaire\Dico\bin\Debug\Dico.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\02_Traitement des données de groupe\02_Exercices d'accompagnement\6-Dictionnaire\Dico\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\02_Traitement des données de groupe\02_Exercices d'accompagnement\6-Dictionnaire\Dico\obj\x86\Debug\Dico.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\02_Traitement des données de groupe\02_Exercices d'accompagnement\6-Dictionnaire\Dico\obj\x86\Debug\Dico.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\02_Traitement des données de groupe\02_Exercices d'accompagnement\5-Dictionnaire_Applications et extensions\obj\x86\Debug\Dico.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\02_Traitement des données de groupe\02_Exercices d'accompagnement\5-Dictionnaire_Applications et extensions\obj\x86\Debug\Dico.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\02_Traitement des données de groupe\02_Exercices d'accompagnement\5-Dictionnaire_Applications et extensions\bin\Debug\Dico.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\02_Traitement des données de groupe\02_Exercices d'accompagnement\5-Dictionnaire_Applications et extensions\bin\Debug\Dico.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\02_Traitement des données de groupe\02_Exercices d'accompagnement\5-Dictionnaire_Applications et extensions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\02_Traitement des données de groupe\02_Exercices d'accompagnement\4-Dictionnaire_Applications et leur extension\obj\x86\Debug\Dico.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\02_Traitement des données de groupe\02_Exercices d'accompagnement\4-Dictionnaire_Applications et leur extension\obj\x86\Debug\Dico.pdb
+D:\cours\Période 1\2013-09-09_Traitement des données de groupe\02_Exercices d'accompagnement\4a-Dictionnaire_Applications et leur extension\obj\x86\Debug\Dico.exe
+D:\cours\Période 1\2013-09-09_Traitement des données de groupe\02_Exercices d'accompagnement\4a-Dictionnaire_Applications et leur extension\obj\x86\Debug\Dico.pdb
+D:\cours\Période 1\2013-09-09_Traitement des données de groupe\02_Exercices d'accompagnement\4a-Dictionnaire_Applications et leur extension\bin\Debug\Dico.exe
+D:\cours\Période 1\2013-09-09_Traitement des données de groupe\02_Exercices d'accompagnement\4a-Dictionnaire_Applications et leur extension\bin\Debug\Dico.pdb
+D:\cours\Période 1\2013-09-09_Traitement des données de groupe\02_Exercices d'accompagnement\4a-Dictionnaire_Applications et leur extension\obj\x86\Debug\Dico.csprojResolveAssemblyReference.cache

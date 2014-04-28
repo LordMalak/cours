@@ -1,0 +1,12 @@
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Liste d'employés\ListeEmployes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Liste d'employés\ListeEmployes\bin\Debug\ListeEmployes.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Liste d'employés\ListeEmployes\bin\Debug\ListeEmployes.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Liste d'employés\ListeEmployes\obj\x86\Debug\ListeEmployes.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Liste d'employés\ListeEmployes\obj\x86\Debug\ListeEmployes.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Liste d'employés\obj\x86\Debug\ListeEmployes.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Liste d'employés\obj\x86\Debug\ListeEmployes.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\02_Traitement des données de groupe\02_Exercices d'accompagnement\3-Liste d'employés\obj\x86\Debug\ListeEmployes.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\02_Traitement des données de groupe\02_Exercices d'accompagnement\3-Liste d'employés\obj\x86\Debug\ListeEmployes.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\02_Traitement des données de groupe\02_Exercices d'accompagnement\3-Liste d'employés\bin\Debug\ListeEmployes.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\02_Traitement des données de groupe\02_Exercices d'accompagnement\3-Liste d'employés\bin\Debug\ListeEmployes.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\02_Traitement des données de groupe\02_Exercices d'accompagnement\3-Liste d'employés\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices\Gestion_Exceptions\Exception_Age\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices\Gestion_Exceptions\Exception_Age\bin\Debug\Exception_Age.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices\Gestion_Exceptions\Exception_Age\bin\Debug\Exception_Age.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices\Gestion_Exceptions\Exception_Age\obj\x86\Debug\Exception_Age.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices\Gestion_Exceptions\Exception_Age\obj\x86\Debug\Exception_Age.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Gestion_Exceptions_Age\Exception_Age\obj\x86\Debug\Exception_Age.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Gestion_Exceptions_Age\Exception_Age\obj\x86\Debug\Exception_Age.pdb

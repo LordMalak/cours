@@ -1,0 +1,5 @@
+C:\Users\monique\Desktop\2_Tabemp\obj\x86\Debug\TabEmployes.exe
+C:\Users\monique\Desktop\2_Tabemp\obj\x86\Debug\TabEmployes.pdb
+C:\Users\monique\Desktop\2_Tabemp\bin\Debug\TabEmployes.exe
+C:\Users\monique\Desktop\2_Tabemp\bin\Debug\TabEmployes.pdb
+C:\Users\monique\Desktop\2_Tabemp\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+C:\Users\monique\Documents\Mes_Cours\_SIO2\SLAM4\SLAM4_Exercices\impot_01\impot_01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\monique\Documents\Mes_Cours\_SIO2\SLAM4\SLAM4_Exercices\impot_01\impot_01\bin\Debug\impot_01.exe
+C:\Users\monique\Documents\Mes_Cours\_SIO2\SLAM4\SLAM4_Exercices\impot_01\impot_01\bin\Debug\impot_01.pdb
+C:\Users\monique\Documents\Mes_Cours\_SIO2\SLAM4\SLAM4_Exercices\impot_01\impot_01\obj\x86\Debug\impot_01.exe
+C:\Users\monique\Documents\Mes_Cours\_SIO2\SLAM4\SLAM4_Exercices\impot_01\impot_01\obj\x86\Debug\impot_01.pdb
+C:\Users\monique\Documents\Mes_Cours\_SIO2\SLAM4\_SLAM4_Exercices et Projets\01_Projet IRPP\IRPP_C#_Niveau1_Calcul de l'impôt\impot_01\obj\x86\Debug\impot_01.exe
+C:\Users\monique\Documents\Mes_Cours\_SIO2\SLAM4\_SLAM4_Exercices et Projets\01_Projet IRPP\IRPP_C#_Niveau1_Calcul de l'impôt\impot_01\obj\x86\Debug\impot_01.pdb
+C:\Users\monique\Documents\Mes_Cours\_SIO2\SLAM4\_SLAM4_Exercices et Projets\01_Projet IRPP\IRPP_C#_Niveau1_Calcul de l'impôt\impot_01\bin\Debug\impot_01.exe
+C:\Users\monique\Documents\Mes_Cours\_SIO2\SLAM4\_SLAM4_Exercices et Projets\01_Projet IRPP\IRPP_C#_Niveau1_Calcul de l'impôt\impot_01\bin\Debug\impot_01.pdb
+C:\Users\monique\Documents\Mes_Cours\_SIO2\SLAM4\_SLAM4_Exercices et Projets\01_Projet IRPP\IRPP_C#_Niveau1_Calcul de l'impôt\impot_01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Projet IRPP\IRPP_C#_Niveau1_Calcul de l'impôt\impot_01\bin\Debug\impot_01.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Projet IRPP\IRPP_C#_Niveau1_Calcul de l'impôt\impot_01\bin\Debug\impot_01.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Projet IRPP\IRPP_C#_Niveau1_Calcul de l'impôt\impot_01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Projet IRPP\IRPP_C#_Niveau1_Calcul de l'impôt\impot_01\obj\x86\Debug\impot_01.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Projet IRPP\IRPP_C#_Niveau1_Calcul de l'impôt\impot_01\obj\x86\Debug\impot_01.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Projets\01_Calcul IRPP_Tableaux et structures de base TP 1\01_Sources corrigées\IRPP_C#_Niveau1_Calcul de l'impôt\impot_01\obj\x86\Debug\impot_01.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Projets\01_Calcul IRPP_Tableaux et structures de base TP 1\01_Sources corrigées\IRPP_C#_Niveau1_Calcul de l'impôt\impot_01\obj\x86\Debug\impot_01.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Projets\01_Calcul IRPP_Tableaux et structures de base TP 1\01_Sources corrigées\IRPP_C#_Niveau1_Calcul de l'impôt\impot_01\bin\Debug\impot_01.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Projets\01_Calcul IRPP_Tableaux et structures de base TP 1\01_Sources corrigées\IRPP_C#_Niveau1_Calcul de l'impôt\impot_01\bin\Debug\impot_01.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Projets\01_Calcul IRPP_Tableaux et structures de base TP 1\01_Sources corrigées\IRPP_C#_Niveau1_Calcul de l'impôt\impot_01\obj\x86\Debug\ResolveAssemblyReference.cache

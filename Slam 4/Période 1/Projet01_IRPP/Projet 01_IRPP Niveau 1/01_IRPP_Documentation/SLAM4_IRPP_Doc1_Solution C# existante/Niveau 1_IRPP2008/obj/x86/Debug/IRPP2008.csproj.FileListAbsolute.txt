@@ -1,0 +1,12 @@
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\IRPP2008\IRPP2008\bin\Debug\IRPP2008.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\IRPP2008\IRPP2008\bin\Debug\IRPP2008.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\IRPP2008\IRPP2008\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\IRPP2008\IRPP2008\obj\x86\Debug\IRPP2008.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\IRPP2008\IRPP2008\obj\x86\Debug\IRPP2008.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\Période 1_Révisions et compléments C#\Projet Niveau 1_IRPP\Niveau 1_IRPP2008\obj\x86\Debug\IRPP2008.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\Période 1_Révisions et compléments C#\Projet Niveau 1_IRPP\Niveau 1_IRPP2008\obj\x86\Debug\IRPP2008.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\Période 1_Révisions et compléments C#\Projet Niveau 1_IRPP\Niveau 1_IRPP2008\bin\Debug\IRPP2008.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\Période 1_Révisions et compléments C#\Projet Niveau 1_IRPP\Niveau 1_IRPP2008\bin\Debug\IRPP2008.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\Période 1_Révisions et compléments C#\Projet Niveau 1_IRPP\Niveau 1_IRPP2008\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\monique\Desktop\Niveau 1_IRPP2008\obj\x86\Debug\IRPP2008.exe
+C:\Users\monique\Desktop\Niveau 1_IRPP2008\obj\x86\Debug\IRPP2008.pdb

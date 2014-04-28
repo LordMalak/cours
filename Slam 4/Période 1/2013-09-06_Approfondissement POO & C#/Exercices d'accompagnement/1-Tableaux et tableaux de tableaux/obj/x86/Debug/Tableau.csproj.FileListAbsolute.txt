@@ -1,0 +1,14 @@
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Tableaux\Tableau\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Tableaux\Tableau\bin\Debug\Tableau.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Tableaux\Tableau\bin\Debug\Tableau.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Tableaux\Tableau\obj\x86\Debug\Tableau.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Tableaux\Tableau\obj\x86\Debug\Tableau.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Liste couleurs\obj\x86\Debug\Tableau.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Liste couleurs\obj\x86\Debug\Tableau.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Tableaux\obj\x86\Debug\Tableau.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Tableaux\obj\x86\Debug\Tableau.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Tableaux\bin\Debug\Tableau.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Tableaux\bin\Debug\Tableau.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Tableaux\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\1-Tableaux\obj\x86\Debug\Tableau.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\1-Tableaux\obj\x86\Debug\Tableau.pdb

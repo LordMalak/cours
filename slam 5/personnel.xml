@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="personnel1.xsl" ?>
+<personnel>
+  <employe statut="chef">
+    <nom>abitbol</nom>
+    <prenom>arthur</prenom>
+  </employe>
+  <employe>
+    <nom>bonvoisin</nom>
+    <prenom>bernie</prenom>
+  </employe>
+  <employe>
+    <nom>cridence</nom>
+    <prenom>charline</prenom>
+  </employe>
+</personnel>

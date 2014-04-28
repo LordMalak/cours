@@ -1,0 +1,20 @@
+C:\Users\monique\Desktop\IRPPb\libImpot\bin\Debug\libImpot.dll
+C:\Users\monique\Desktop\IRPPb\libImpot\bin\Debug\libImpot.pdb
+C:\Users\monique\Desktop\IRPPb\libImpot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\monique\Desktop\IRPPb\libImpot\obj\Debug\libImpot.dll
+C:\Users\monique\Desktop\IRPPb\libImpot\obj\Debug\libImpot.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\01_Approfondissement C#\Projet 01_IRPP Niveau 1\01_IRPP_Sources corrigées\IRPP2013b\libImpot\bin\Debug\libImpot.dll
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\01_Approfondissement C#\Projet 01_IRPP Niveau 1\01_IRPP_Sources corrigées\IRPP2013b\libImpot\bin\Debug\libImpot.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\01_Approfondissement C#\Projet 01_IRPP Niveau 1\01_IRPP_Sources corrigées\IRPP2013b\libImpot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\01_Approfondissement C#\Projet 01_IRPP Niveau 1\01_IRPP_Sources corrigées\IRPP2013b\libImpot\obj\Debug\libImpot.dll
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\01_Approfondissement C#\Projet 01_IRPP Niveau 1\01_IRPP_Sources corrigées\IRPP2013b\libImpot\obj\Debug\libImpot.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\01_Approfondissement C#\Projet 01_IRPP Niveau 1\01_IRPP_Sources corrigées\IRPP2013c\libImpot\bin\Debug\libImpot.dll
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\01_Approfondissement C#\Projet 01_IRPP Niveau 1\01_IRPP_Sources corrigées\IRPP2013c\libImpot\bin\Debug\libImpot.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\01_Approfondissement C#\Projet 01_IRPP Niveau 1\01_IRPP_Sources corrigées\IRPP2013c\libImpot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\01_Approfondissement C#\Projet 01_IRPP Niveau 1\01_IRPP_Sources corrigées\IRPP2013c\libImpot\obj\Debug\libImpot.dll
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\01_Approfondissement C#\Projet 01_IRPP Niveau 1\01_IRPP_Sources corrigées\IRPP2013c\libImpot\obj\Debug\libImpot.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\01_Approfondissement C#\Projet 01_IRPP Niveau 1\01_IRPP_Sources corrigées\IRPP2013_Classe\libImpot\bin\Debug\libImpot.dll
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\01_Approfondissement C#\Projet 01_IRPP Niveau 1\01_IRPP_Sources corrigées\IRPP2013_Classe\libImpot\bin\Debug\libImpot.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\01_Approfondissement C#\Projet 01_IRPP Niveau 1\01_IRPP_Sources corrigées\IRPP2013_Classe\libImpot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\01_Approfondissement C#\Projet 01_IRPP Niveau 1\01_IRPP_Sources corrigées\IRPP2013_Classe\libImpot\obj\Debug\libImpot.dll
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\01_Approfondissement C#\Projet 01_IRPP Niveau 1\01_IRPP_Sources corrigées\IRPP2013_Classe\libImpot\obj\Debug\libImpot.pdb

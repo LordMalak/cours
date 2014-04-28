@@ -1,0 +1,13 @@
+Les fichiers texte1.txt et texte2.txt sont des texte_orig.txt légèrement
+modifiés.
+
+1) Quelles sont ces modifications (expliquer en français) ?
+2) À l’aide de la commande `diff` et du redirecteur `>`, générer un « patch »
+   décrivant les changements qui permettent d’obtenir texte1.txt, en lançant:
+   diff texte_orig.txt texte1.txt > orig_vers_1.patch
+3) À l’aide de la commande `patch`, appliquer la modification
+   texte_orig.txt -> texte1.txt au fichier texte2.txt, en lançant:
+   patch texte2.txt orig_vers_1.patch
+   Qu’observe-t-on ? Vérifier avec `diff`.
+   Qu’a fait la commande `patch` pour nous (à part modifier texte2.txt) ?
+4) Quels peuvent-être les contextes d’utilisation de cette commande ?

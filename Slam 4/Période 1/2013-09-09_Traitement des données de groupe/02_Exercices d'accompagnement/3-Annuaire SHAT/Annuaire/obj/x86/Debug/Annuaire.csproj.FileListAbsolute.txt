@@ -1,0 +1,14 @@
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\02_Traitement des données de groupe\02_Exercices d'accompagnement\5-Annuaire\Annuaire\bin\Debug\Annuaire.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\02_Traitement des données de groupe\02_Exercices d'accompagnement\5-Annuaire\Annuaire\bin\Debug\Annuaire.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\02_Traitement des données de groupe\02_Exercices d'accompagnement\5-Annuaire\Annuaire\bin\Debug\libAnimalerie.dll
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\02_Traitement des données de groupe\02_Exercices d'accompagnement\5-Annuaire\Annuaire\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\02_Traitement des données de groupe\02_Exercices d'accompagnement\5-Annuaire\Annuaire\obj\x86\Debug\Annuaire.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\02_Traitement des données de groupe\02_Exercices d'accompagnement\5-Annuaire\Annuaire\obj\x86\Debug\Annuaire.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\02_Traitement des données de groupe\02_Exercices d'accompagnement\3-Annuaire\Annuaire\obj\x86\Debug\Annuaire.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\02_Traitement des données de groupe\02_Exercices d'accompagnement\3-Annuaire\Annuaire\obj\x86\Debug\Annuaire.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\02_Traitement des données de groupe\02_Exercices d'accompagnement\3-Annuaire\Annuaire\bin\Debug\Annuaire.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\02_Traitement des données de groupe\02_Exercices d'accompagnement\3-Annuaire\Annuaire\bin\Debug\Annuaire.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\02_Traitement des données de groupe\02_Exercices d'accompagnement\3-Annuaire\Annuaire\bin\Debug\libAnimalerie.dll
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\02_Traitement des données de groupe\02_Exercices d'accompagnement\3-Annuaire\Annuaire\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\02_Traitement des données de groupe\02_Exercices d'accompagnement\3-Annuaire SHAT\Annuaire\obj\x86\Debug\Annuaire.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Les Cours & Projets_Période 1\02_Traitement des données de groupe\02_Exercices d'accompagnement\3-Annuaire SHAT\Annuaire\obj\x86\Debug\Annuaire.pdb

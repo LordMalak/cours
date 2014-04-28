@@ -1,0 +1,5 @@
+Quel est l’intrus parmi les trois fichiers `texte*.txt` ?
+En quoi ce fichier est-il différent ?
+
+Note: vous pouvez essayer à l’œil nu, mais vous pouvez utiliser un outil comme
+la commande `diff` ou le programme `TkDiff`.

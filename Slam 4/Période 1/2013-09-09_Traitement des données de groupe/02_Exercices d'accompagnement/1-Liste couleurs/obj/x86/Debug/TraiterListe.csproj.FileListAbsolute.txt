@@ -1,0 +1,10 @@
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Traitement Liste\TraiterListe\bin\Debug\TraiterListe.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Traitement Liste\TraiterListe\bin\Debug\TraiterListe.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Traitement Liste\TraiterListe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Traitement Liste\TraiterListe\obj\x86\Debug\TraiterListe.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\01_Révisions C#\01_Exercices d'accompagnement\Traitement Liste\TraiterListe\obj\x86\Debug\TraiterListe.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\02_Traitement des données de groupe\02_Exercices d'accompagnement\2-Liste couleurs\obj\x86\Debug\TraiterListe.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\02_Traitement des données de groupe\02_Exercices d'accompagnement\2-Liste couleurs\obj\x86\Debug\TraiterListe.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\02_Traitement des données de groupe\02_Exercices d'accompagnement\2-Liste couleurs\bin\Debug\TraiterListe.exe
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\02_Traitement des données de groupe\02_Exercices d'accompagnement\2-Liste couleurs\bin\Debug\TraiterListe.pdb
+C:\Users\monique\Documents\Mes_Cours\SIO_Année 2013-2014\SLAM4\_SLAM4_Cours\02_Traitement des données de groupe\02_Exercices d'accompagnement\2-Liste couleurs\obj\x86\Debug\ResolveAssemblyReference.cache
